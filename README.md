@@ -1,1 +1,1 @@
-# medi-connect-patient-management-System
+# medi-connect-patient-management-system
